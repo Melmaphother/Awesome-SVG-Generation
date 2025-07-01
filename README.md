@@ -83,11 +83,11 @@ Tools for reducing file size by cleaning up redundant information and optimizing
 
 For backend processing, data manipulation, and integration with deep learning models.
 
-- diffvg: A differentiable rasterizer for vector graphics, enabling gradient-based optimization of SVG parameters. A core component in many optimization-based methods.
-- svglib: A library for reading SVG files and converting them into other formats (e.g., PDF, PNG) using the ReportLab toolkit.
-- svgwrite: A Python library to create SVG drawings programmatically. It's a drawing library, not a parser.
-- cairosvg: A library to convert SVG files to various raster formats like PNG, PDF, and PostScript.
-- svgelements: A robust Python library for parsing SVG files into a structured object model, supporting paths, shapes, and CSS styling.
+- [diffvg](https://github.com/BachiLi/diffvg): A differentiable rasterizer for vector graphics, enabling gradient-based optimization of SVG parameters. A core component in many optimization-based methods.
+- [svglib](https://github.com/DataMarket/svglib): A library for reading SVG files and converting them into other formats (e.g., PDF, PNG) using the ReportLab toolkit.
+- [svgwrite](https://github.com/mozman/svgwrite): A Python library to create SVG drawings programmatically. It's a drawing library, not a parser.
+- [cairosvg](https://cairosvg.org/): A library to convert SVG files to various raster formats like PNG, PDF, and PostScript.
+- [svgelements](https://github.com/meerk40t/svgelements): A robust Python library for parsing SVG files into a structured object model, supporting paths, shapes, and CSS styling.
 
 ### 🚢 Javascript
 
