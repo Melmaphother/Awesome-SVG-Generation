@@ -68,6 +68,7 @@ For creating, viewing, and manually editing vector graphics.
 - [Inkscape](https://inkscape.org/): A powerful, free and open-source vector graphics editor that uses SVG as its native format.
 - [Figma](https://www.figma.com/): A collaborative interface design tool with excellent support for vector editing and SVG export.
 - [Online Editor](http://editor.method.ac/): A simple and clean open-source vector editor that runs in the browser.
+- [SVGMaker](https://svgmaker.io/): AI SVG generator, converter and editor that runs in the browser.
 
 ### ⚙️ SVG Optimization
 
